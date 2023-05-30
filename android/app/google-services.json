@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1084108839383",
+    "project_id": "latihanauth-e996d",
+    "storage_bucket": "latihanauth-e996d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084108839383:android:4415a111cc299c22295392",
+        "android_client_info": {
+          "package_name": "com.latihanauth.firebase_auth_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084108839383-gi5gfejcnbcnohj4aniourscfi6fk0d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.latihanauth.firebase_auth_template",
+            "certificate_hash": "0876e2912270ff4c0f2be5c15ff624c8f2c57076"
+          }
+        },
+        {
+          "client_id": "1084108839383-4901cil01ikacldfn4mld5j1ctu50jue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZzt5p-3f67jaAas0sBh8r9FVbEdksGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084108839383-4901cil01ikacldfn4mld5j1ctu50jue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
